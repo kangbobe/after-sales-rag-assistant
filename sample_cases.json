@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T01",
+    "business": "R",
+    "question": "我寄过去之前估价 1200 元，检测完怎么只剩 900 元了？",
+    "expected": "R01"
+  },
+  {
+    "id": "T02",
+    "business": "R",
+    "question": "你们说我的屏幕有问题，可我寄出时明明是好的。",
+    "expected": "R02"
+  },
+  {
+    "id": "T03",
+    "business": "R",
+    "question": "新报价我不要了，把手机还给我，退回来要不要运费？",
+    "expected": "R03"
+  },
+  {
+    "id": "T04",
+    "business": "R",
+    "question": "我昨天同意卖手机了，怎么钱还没到？你帮我查一下。",
+    "expected": "R04"
+  },
+  {
+    "id": "T05",
+    "business": "R",
+    "question": "快递两天没更新了，是不是把我的手机弄丢了？你们赔我多少钱？",
+    "expected": "R05"
+  },
+  {
+    "id": "T06",
+    "business": "B",
+    "question": "我买的是 256G，收到的手机设置里显示 128G。",
+    "expected": "B01"
+  },
+  {
+    "id": "T07",
+    "business": "B",
+    "question": "我收到二手手机才 5 天，现在开不了机，能退吗？",
+    "expected": "B02"
+  },
+  {
+    "id": "T08",
+    "business": "B",
+    "question": "买了 20 天，手机突然充不了电，可以直接退货吗？",
+    "expected": "B03"
+  },
+  {
+    "id": "T09",
+    "business": "B",
+    "question": "手机是我自己摔坏的，不过还在一年内，你能保证免费修吗？",
+    "expected": "B04"
+  },
+  {
+    "id": "T10",
+    "business": "B",
+    "question": "退货已经提交了，退款今天能到吗？你直接查一下。",
+    "expected": "B05"
+  },
+  {
+    "id": "T11",
+    "business": "B",
+    "question": "我买的二手手机现在送到哪里了？",
+    "expected": "B06"
+  },
+  {
+    "id": "T12",
+    "business": "?",
+    "question": "我这个手机订单出问题了，可以退吗？",
+    "expected": "G01"
+  }
+]

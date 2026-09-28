@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+.rag_cache/
+__pycache__/
+*.pyc
+answer_checks_*.json
+holdout_results_*.json
+support_demo_results.json
+.DS_Store
+.pytest_cache/
